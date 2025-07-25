@@ -147,6 +147,7 @@ bxaq则是依靠移动端APP进行操作，移动端主界面内容如下：
 - <提示>正在检测基本信息....
 
 病毒扫描结果：
+
 **Massistant扫描结果**
 ![](https://raw.githubusercontent.com/nscndanmaku/Fuck_Massistant/refs/heads/main/Massistant%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
 
