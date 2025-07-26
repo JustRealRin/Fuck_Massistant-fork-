@@ -151,7 +151,7 @@ bxaq则是依靠移动端APP进行操作，移动端主界面内容如下：
 病毒扫描结果：
 
 **Massistant扫描结果**
-![](https://raw.githubusercontent.com/nscndanmaku/Fuck_Massistant/refs/heads/main/Massistant%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
+![](https://raw.githubusercontent.com/JustRealRin/Fuck_Massistant/refs/heads/main/Massistant%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
 
 **蜂采扫描结果**
-![](https://raw.githubusercontent.com/nscndanmaku/Fuck_Massistant/refs/heads/main/%E8%9C%82%E9%87%87%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
+![](https://raw.githubusercontent.com/JustRealRin/Fuck_Massistant/refs/heads/main/%E8%9C%82%E9%87%87%E6%89%AB%E6%8F%8F%E7%BB%93%E6%9E%9C.png)
